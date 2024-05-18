@@ -1,8 +1,3 @@
-# age-calculator
-Certainly! Thank you for sharing the HTML content for your age calculator website. Let's create a README file to provide instructions and information about your project. Here's a basic template you can use:
-
----
-
 # Age Calculator
 
 The **Age Calculator** is a simple web application that allows users to calculate their age based on the date they input. It displays the result in years, months, and days.
