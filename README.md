@@ -28,11 +28,3 @@ The **Age Calculator** is a simple web application that allows users to calculat
 ## How to Contribute
 
 If you'd like to contribute to this project, feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
----
-
-Remember to replace the screenshot link (`./screenshot.png`) with an actual screenshot of your application. Feel free to customize the content further to match your project's specifics. Let me know if you need any additional assistance! 😊🚀
